@@ -1,0 +1,26 @@
+.antp1{
+    color: blue; 
+    text-align-last: center;
+ }
+ .antp2{
+    
+    text-align-last: center;
+    font-size: 14pt;
+ }
+ .mot{
+    color: rgb(4, 0, 255); 
+ }
+
+ .logos {
+   height: 30px;
+ }
+ .plat{
+   color:brown;
+ }
+ body{
+   background-color: rgb(169, 169, 169);
+ }
+ 
+ .ti{
+  font-weight: bold;
+ }
